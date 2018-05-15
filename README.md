@@ -1,0 +1,1 @@
+# sparta-global-ruby-blogs-mvc
